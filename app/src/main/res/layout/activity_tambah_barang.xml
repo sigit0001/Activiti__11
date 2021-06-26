@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".TambahData">
+    tools:context="com.example.activiti__10.tambahBarang">
 
     <EditText
         android:id="@+id/editNo"
